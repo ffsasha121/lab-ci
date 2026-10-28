@@ -1,1 +1,1 @@
-[# lab-ci](https://github.com/ffsasha121/lab-ci/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ffsasha121/lab-ci/actions/workflows/ci.yml/badge.svg)
